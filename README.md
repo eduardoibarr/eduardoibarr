@@ -16,7 +16,7 @@ Proficient with cloud solutions such as **AWS**, **OCI**, **GCP**, and **Azure**
 
 ### Previous Projects
 
-To see some of my past projects, visit my [discontinued GitHub](https://github.com/eduardo.ibarr).
+To see some of my past projects, visit my [discontinued GitHub](https://github.com/eduardo-ibarr).
 
 ### Let's Connect!
 

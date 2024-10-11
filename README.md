@@ -1,23 +1,23 @@
-# Eduardo Ibarr
+# Eduardo de Paula
 
-## Desenvolvedor Full-Stack
+## Full-Stack Developer
 
-Desenvolvedor full-stack com experiência em desenvolvimento de aplicações web utilizando **Node.js** e **React**. Possuo habilidades na criação de assistentes virtuais com ferramentas como **Dialogflow**, **Blip**, e **Oracle Digital Assistant (ODA)**.
+Full-stack developer with experience in building web applications using **Node.js** and **React**. Skilled in creating virtual assistants with tools like **Dialogflow**, **Blip**, and **Oracle Digital Assistant (ODA)**.
 
-### Habilidades Principais
+### Core Skills
 
-- **Desenvolvimento de APIs RESTful** e integração com serviços de terceiros.
-- **Testes automatizados** para garantir a qualidade e confiabilidade do software.
-- Metodologias ágeis (Scrum/Kanban) para entrega eficiente de projetos.
+- **RESTful API Development** and third-party service integration.
+- **Automated testing** to ensure software quality and reliability.
+- Agile methodologies (Scrum/Kanban) for efficient project delivery.
 
-### Experiência em Cloud
+### Cloud Experience
 
-Familiarizado com soluções em nuvem como **AWS**, **OCI**, **GCP**, e **Azure**, além de experiência em tecnologias emergentes como **LLMs**, **RAG**, e **Machine Learning**.
+Proficient with cloud solutions such as **AWS**, **OCI**, **GCP**, and **Azure**, with experience in emerging technologies like **LLMs**, **RAG**, and **Machine Learning**.
 
-### Projetos Anteriores
+### Previous Projects
 
-Para visualizar alguns dos meus projetos anteriores, visite meu [GitHub descontinuado](https://github.com/eduardo.ibarr).
+To see some of my past projects, visit my [discontinued GitHub](https://github.com/eduardo.ibarr).
 
-### Vamos Conectar!
+### Let's Connect!
 
-Para saber mais sobre a minha experiência, [acesse meu LinkedIn](https://linkedin.com/in/eduardo-ibarr).
+To learn more about my projects and experience, [check out my LinkedIn](https://linkedin.com/in/eduardo-ibarr).

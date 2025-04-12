@@ -1,18 +1,19 @@
-# Eduardo de Paula
+# Eduardo Ibarr de Paula
 
-## Full-Stack Developer
+## Software Developer
 
-Full-stack developer with experience in building web applications using **Node.js** and **React**. Skilled in creating virtual assistants with tools like **Dialogflow**, **Blip**, and **Oracle Digital Assistant (ODA)**.
+Software developer with experience in building web applications. Skilled in creating virtual assistants and AI.
 
 ### Core Skills
 
-- **RESTful API Development** and third-party service integration.
-- **Automated testing** to ensure software quality and reliability.
-- Agile methodologies (Scrum/Kanban) for efficient project delivery.
+- **REST APIs** with authentication, caching, and third-party integrations  
+- **Automated testing** (unit, integration, mocks)  
+- **CI/CD** with pipelines for build, test, and deploy  
+- **SQL and NoSQL** (PostgreSQL, MongoDB)  
 
 ### Cloud Experience
 
-Proficient with cloud solutions such as **AWS**, **OCI**, **GCP**, and **Azure**, with experience in emerging technologies like **LLMs**, **RAG**, and **Machine Learning**.
+Proficient with cloud solutions such as **AWS** and **GCP**, with experience in emerging technologies like **LLMs**, **RAG**, and **Machine Learning**.
 
 ### Previous Projects
 
